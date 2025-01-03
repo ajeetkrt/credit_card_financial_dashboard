@@ -14,7 +14,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 Download Data
 GitHub:
-https://github.com/rishabhnmishra/Credit_Card_Financial_Dashboard
+https://github.com/ajeetkrt/credit_card_financial_dashboard
 
 OR 
 
