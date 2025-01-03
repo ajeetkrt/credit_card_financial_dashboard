@@ -77,6 +77,8 @@ Credit card financial dashboard using Power BI:
    • Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
 
+Live Url : https://app.powerbi.com/view?r=eyJrIjoiMGRmNTkzMDAtMWMxMy00MmUwLWIxMDUtMWNiOGMyZjliYjYxIiwidCI6IjZhMTJlYzQ1LTdjMTQtNDRlYi1iY2QyLTNkODczYTUxZTg4ZiJ9
+
 
 
 
